@@ -1,1 +1,1 @@
-puts "hello world"# Rock, Paper, Scissors
+puts "hello class"# Rock, Paper, Scissors
